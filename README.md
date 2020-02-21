@@ -1,4 +1,4 @@
-# Java & C++ Solutions for Leetcode)
+# Java & C++ Solutions for Leetcode Problems
 
 ## Problems & Solutions
 
