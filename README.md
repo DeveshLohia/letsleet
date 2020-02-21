@@ -2,7 +2,7 @@
 
 ## Problems & Solutions
 
-[Java](https://github.com/qiyuangong/leetcode/tree/master/java) and [C++](https://github.com/qiyuangong/leetcode/tree/master/cpp) full list.
+[Java](https://github.com/umsh1ume/leetcode/tree/master/java) and [C++](https://github.com/umsh1ume/leetcode/tree/master/cpp) full list.
 
 | # | Problem | Solution | Tags | Difficulty | Basic Solution Idea |
 |---| --------- | -------- | ------ | ---------- | --------------------- |
